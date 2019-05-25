@@ -1,0 +1,199 @@
+anio;tipo;potencia_MW
+2002;hidraulica;9204.7
+2003;hidraulica;9246.7
+2004;hidraulica;9317.7
+2005;hidraulica;9557.7
+2006;hidraulica;9627.7
+2007;hidraulica;9844.7
+2008;hidraulica;9851.7
+2009;hidraulica;10222.7
+2010;hidraulica;10222.7
+2011;hidraulica;10753.7
+2012;hidraulica;10793.7
+2013;hidraulica;10794.7
+2014;hidraulica;10796.7
+2015;hidraulica;10739.4
+2016;hidraulica;10751.7
+2017;hidraulica;10746.4
+2018;hidraulica;10790.4
+2019;hidraulica;10790.4
+2002;ciclos combinados;6307.0
+2003;ciclos combinados;6363.0
+2004;ciclos combinados;6363.0
+2005;ciclos combinados;6363.0
+2006;ciclos combinados;6363.0
+2007;ciclos combinados;6363.0
+2008;ciclos combinados;6935.0
+2009;ciclos combinados;7046.0
+2010;ciclos combinados;8185.0
+2011;ciclos combinados;8725.0
+2012;ciclos combinados;9191.0
+2013;ciclos combinados;9191.0
+2014;ciclos combinados;9191.0
+2015;ciclos combinados;9227.0
+2016;ciclos combinados;9227.0
+2017;ciclos combinados;10436.4
+2018;ciclos combinados;11034.4
+2019;ciclos combinados;11206.4
+2002;turbina a gas;2223.0
+2003;turbina a gas;2339.0
+2004;turbina a gas;2317.0
+2005;turbina a gas;2277.0
+2006;turbina a gas;2264.0
+2007;turbina a gas;2359.0
+2008;turbina a gas;3512.0
+2009;turbina a gas;3744.0
+2010;turbina a gas;3588.0
+2011;turbina a gas;3493.0
+2012;turbina a gas;4036.0
+2013;turbina a gas;4061.0
+2014;turbina a gas;4035.0
+2015;turbina a gas;4595.0
+2016;turbina a gas;5251.0
+2017;turbina a gas;6029.6
+2018;turbina a gas;7237.1
+2019;turbina a gas;7065.1
+2002;turbovapor;4521.0
+2003;turbovapor;4521.0
+2004;turbovapor;4526.0
+2005;turbovapor;4496.0
+2006;turbovapor;4463.0
+2007;turbovapor;4573.0
+2008;turbovapor;4438.0
+2009;turbovapor;4438.0
+2010;turbovapor;4438.0
+2011;turbovapor;4445.0
+2012;turbovapor;4451.0
+2013;turbovapor;4451.0
+2014;turbovapor;4451.0
+2015;turbovapor;4451.0
+2016;turbovapor;4451.0
+2017;turbovapor;4451.2
+2018;turbovapor;4451.2
+2019;turbovapor;4451.2
+2002;nuclear;1005.0
+2003;nuclear;1005.0
+2004;nuclear;1005.0
+2005;nuclear;1005.0
+2006;nuclear;1005.0
+2007;nuclear;1005.0
+2008;nuclear;1005.0
+2009;nuclear;1005.0
+2010;nuclear;1005.0
+2011;nuclear;1005.0
+2012;nuclear;1005.0
+2013;nuclear;1010.0
+2014;nuclear;1010.0
+2015;nuclear;1755.0
+2016;nuclear;1755.0
+2017;nuclear;1755.0
+2018;nuclear;1755.0
+2019;nuclear;1755.0
+2002;motor diesel;4.0
+2003;motor diesel;4.0
+2004;motor diesel;4.0
+2005;motor diesel;4.0
+2006;motor diesel;4.0
+2007;motor diesel;26.0
+2008;motor diesel;267.0
+2009;motor diesel;398.0
+2010;motor diesel;607.0
+2011;motor diesel;1131.0
+2012;motor diesel;1347.0
+2013;motor diesel;1388.0
+2014;motor diesel;1415.0
+2015;motor diesel;1415.0
+2016;motor diesel;1834.3
+2017;motor diesel;2009.4
+2018;motor diesel;1808.0
+2019;motor diesel;1808.0
+2002;eolica;0.0
+2003;eolica;0.0
+2004;eolica;0.0
+2005;eolica;0.0
+2006;eolica;0.0
+2007;eolica;0.0
+2008;eolica;0.0
+2009;eolica;0.0
+2010;eolica;0.0
+2011;eolica;7.0
+2012;eolica;109.0
+2013;eolica;162.0
+2014;eolica;187.0
+2015;eolica;187.0
+2016;eolica;187.4
+2017;eolica;226.7
+2018;eolica;750.3
+2019;eolica;904.9
+2002;biogas;0.0
+2003;biogas;0.0
+2004;biogas;0.0
+2005;biogas;0.0
+2006;biogas;0.0
+2007;biogas;0.0
+2008;biogas;0.0
+2009;biogas;0.0
+2010;biogas;0.0
+2011;biogas;0.0
+2012;biogas;0.0
+2013;biogas;0.0
+2014;biogas;0.0
+2015;biogas;0.0
+2016;biogas;16.6
+2017;biogas;21.5
+2018;biogas;22.7
+2019;biogas;35.5
+2002;solar;0.0
+2003;solar;0.0
+2004;solar;0.0
+2005;solar;0.0
+2006;solar;0.0
+2007;solar;0.0
+2008;solar;0.0
+2009;solar;0.0
+2010;solar;0.0
+2011;solar;1.0
+2012;solar;6.0
+2013;solar;8.0
+2014;solar;8.0
+2015;solar;8.0
+2016;solar;8.2
+2017;solar;8.2
+2018;solar;190.6
+2019;solar;286.6
+2002;hidraulica renovable;381.3
+2003;hidraulica renovable;381.3
+2004;hidraulica renovable;381.3
+2005;hidraulica renovable;381.3
+2006;hidraulica renovable;381.3
+2007;hidraulica renovable;381.3
+2008;hidraulica renovable;381.3
+2009;hidraulica renovable;381.3
+2010;hidraulica renovable;381.3
+2011;hidraulica renovable;381.3
+2012;hidraulica renovable;381.3
+2013;hidraulica renovable;381.3
+2014;hidraulica renovable;381.3
+2015;hidraulica renovable;438.6
+2016;hidraulica renovable;488.2
+2017;hidraulica renovable;496.4
+2018;hidraulica renovable;497.9
+2019;hidraulica renovable;497.9
+2002;total;23646.0
+2003;total;23860.0
+2004;total;23914.0
+2005;total;24084.0
+2006;total;24108.0
+2007;total;24552.0
+2008;total;26390.0
+2009;total;27235.0
+2010;total;28427.0
+2011;total;29942.0
+2012;total;31320.0
+2013;total;31447.0
+2014;total;31475.0
+2015;total;32816.0
+2016;total;33970.4
+2017;total;36180.8
+2018;total;38537.7
+2019;total;38801.1
